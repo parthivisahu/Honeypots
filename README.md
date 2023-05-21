@@ -1,6 +1,6 @@
 # Honeypots: Architecture, Detection and Prevention
 
-![Honeypot Image](https://example.com/honeypot-image.png)
+
 
 ## Abstract
 In the evolving landscape of cybersecurity, honeypots have emerged as powerful tools for detecting, analyzing, and mitigating cyber threats. This research paper aims to provide a comprehensive study on honeypots, examining their architecture, deployment strategies, and practical applications. By delving into the intricacies of honeypot technologies, this study seeks to shed light on their effectiveness in both offensive and defensive cybersecurity strategies.
